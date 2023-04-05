@@ -8,12 +8,10 @@ body {
 	font-family: "Barlow", sans-serif;
 	line-height: 1;
 	overflow-x: hidden;
-	height: 100%;
 }
 html {
 	font-size: 62.5%;
 	overflow-x: hidden;
-	height: 100%;
 }
 
 /* REUSABLE STYLES */
